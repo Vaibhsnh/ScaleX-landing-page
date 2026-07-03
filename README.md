@@ -36,7 +36,7 @@ This project was created as part of a frontend web development assignment to pra
 ## 📷 Preview
 
 Visit the live website:
-https://vaibhsnh.github.io/pokemon-landing-page/
+https://vaibhsnh.github.io/ScaleX-landing-page/
 
 ## 👨‍💻 Author
 
